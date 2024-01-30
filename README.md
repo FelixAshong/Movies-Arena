@@ -1,8 +1,8 @@
-<h1 align="center">BlueBird-Movies</h1>
-BlueBird-Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
+<h1 align="center">Movie Arena</h1>
+Movie Arena is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
-![background](https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png)
+![background](./src/assets/images/localhost_5173_.png)
 
 <hr/>
 
@@ -20,7 +20,7 @@ BlueBird-Movies is a React-based movie website that allows users to search for m
 
 # 🍿 Technology
 
-BlueBird-Movies is built using the following technologies:
+Movie Arena is built using the following technologies:
 
 - ReactJS
 - TMDB API
@@ -80,14 +80,7 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 # 🍿 Demo 
 
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
+- Check out our live demo at / 
  
-- Youtube video : https://www.youtube.com/watch?v=mGqOOtEGmJc.
-
-https://github.com/tushar-2223/BlueBird-Movies/assets/87109400/2c13988f-d058-456b-a2e3-f3b716646fe6
-
-
-  
-
 # 😍 Contribution
 Contributions are always welcome, open a **Pull Request** and help us improve our project.
